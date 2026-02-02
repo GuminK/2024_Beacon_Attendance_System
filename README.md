@@ -16,7 +16,8 @@
 - AltBeacon 라이브러리: 스마트폰과 비콘간의 통신 
 - Retrofit 라이브러리: HTTP API 통신
 
-# Beacon_Android-master 파일이 Android, course-registeration-system 파일이 Springboot
+# Beacon_Android-master 파일이 Android
+# course-registeration-system 파일이 Springboot
 
 <img width="1002" height="450" alt="image" src="https://github.com/user-attachments/assets/71a8ece5-838b-4e74-94ef-437d8b418a72" />
 <img width="1679" height="766" alt="image" src="https://github.com/user-attachments/assets/acc62856-dce7-439b-99f3-19516f1b9d14" />
