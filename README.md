@@ -16,3 +16,7 @@
 - AltBeacon 라이브러리: 스마트폰과 비콘간의 통신 
 - Retrofit 라이브러리: HTTP API 통신
 
+<img width="308" height="139" alt="image" src="https://github.com/user-attachments/assets/a4a8ac49-8ab8-4362-9db8-009c1ff19b0f" />
+<img width="100" height="189" alt="image" src="https://github.com/user-attachments/assets/8dc8ece6-16eb-4b6f-bb2a-325a4fb2db2f" />
+<img width="112" height="242" alt="image" src="https://github.com/user-attachments/assets/b33eaff5-edae-472a-a1a6-542b4cc5f0a6" />
+<img width="107" height="232" alt="image" src="https://github.com/user-attachments/assets/c8b71a4d-2da5-43c8-b3cc-7a1972b292ad" />
